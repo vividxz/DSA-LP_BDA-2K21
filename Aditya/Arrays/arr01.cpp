@@ -18,7 +18,6 @@ int main()
         break;
       }
     }
-    // cout<<leader;
     if(leader)
       cout<<arr[key]<<endl;
   }
